@@ -9,7 +9,7 @@ entirely client-side via [JupyterLite](https://jupyterlite.readthedocs.io/)
 
 ## Live site
 
-Once deployed: `https://<github-username>.github.io/artmem/lab/index.html?path=artmem.ipynb`
+Once deployed: `https://Frederic-vW.github.io/artmem/lab/index.html?path=artmem.ipynb`
 (GitHub Pages settings must have Source = "GitHub Actions" for the deploy
 workflow to publish it.)
 
